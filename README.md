@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergey 👋.  
 
-- 🔭 I am a Research Scientist at Philips Research, working on Inverse Problems in Medical Imaging.
+- 🔭 I am a Research Scientist at Yandex Research, working on Deep Learning in Computer Vision.
 - 🎓 I am also a Ph.D. student at the Skolkovo Institute of Science and Technology under the supervision of professor [D. Dylov](https://scholar.google.com/citations?user=mhhvib8AAAAJ&hl=en). 
 - ⚡ Fun fact: besides having MSc degree in Computer Science 💻 I also have a degree in Organic Chemistry 👨‍🔬
 - I ❤️ triathlon 🏊‍♂️🚴‍♂️🏃‍♂️ and weightlifting 🏋️‍♂️
